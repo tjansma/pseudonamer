@@ -1,0 +1,2 @@
+# pseudonamer
+Generates pseudonyms.
